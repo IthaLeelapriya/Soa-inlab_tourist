@@ -1,0 +1,18 @@
+# Eclipse & IDE metadata
+**/.metadata/
+**/.metadata/**
+*.log
+
+# Maven & Build outputs
+**/target/
+**/target/**
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# OS files
+.DS_Store
+Thumbs.db
